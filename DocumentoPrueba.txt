@@ -2,8 +2,8 @@
 Trabajo sin Ramas - antes de iniciar la clase de Ramas
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 Aqui inicia La cabecera:
-El contenido de la cabecera va desde aquí
-
+Este contenido se ingresa desde el master, peude generar conflicto con Cabecera
+000000000000000000000000000000000000000000000000000000000000000000000000000000
 Cambio en el master:
 Aquí se agrega un cambio en el master!!
 

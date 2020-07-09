@@ -4,10 +4,13 @@ Trabajo sin Ramas - antes de iniciar la clase de Ramas
 Aqui inicia La cabecera:
 Este contenido se ingresa desde el master, peude generar conflicto con Cabecera
 000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+Este contenido es nuevo y peude generar conflictos en el Merge
+------********----------*******---------********---------*************-----
 Cambio en el master:
 Aquí se agrega un cambio en el master!!
 
-
+Se soluciona conflicto de Merge de forma manual!!
 
 
 

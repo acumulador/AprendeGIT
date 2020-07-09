@@ -15,7 +15,7 @@ Se soluciona conflicto de Merge de forma manual!!
 Este cambio viene desde la web de GitHub
 *******************************************************************************
 
-
+********** Texto agregado para commit con conexión SSH en GitHub **************
 
 
 

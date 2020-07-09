@@ -11,9 +11,9 @@ Cambio en el master:
 Aquí se agrega un cambio en el master!!
 
 Se soluciona conflicto de Merge de forma manual!!
-
-
-
+*******************************************************************************
+Este cambio viene desde la web de GitHub
+*******************************************************************************
 
 
 
